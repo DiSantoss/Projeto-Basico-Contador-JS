@@ -1,0 +1,29 @@
+
+
+
+body {
+    color:black;
+    background-color: rgb(32, 74, 80);
+
+}
+
+button{
+    border-radius: 50px;
+    background-color: grey;
+    border:solid rgb(244, 243, 247);
+    cursor: pointer;
+}
+
+.number {
+    margin: 5px;
+    color:rgb(244, 243, 247) ;
+}
+
+.texto, .titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+em {
+    color:yellow
+}
